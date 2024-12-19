@@ -1,0 +1,10 @@
+[PM2] Spawning PM2 daemon with pm2_home=/home/administrateur/.pm2
+[PM2] PM2 Successfully daemonized
+[PM2] Starting /home/administrateur/.nvm/versions/node/v20.11.0/bin/npm in fork_mode (1 instance)
+[PM2] Done.
+┌────┬──────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name         │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ partFront    │ default     │ 0.38.0  │ fork    │ 2103     │ 0s     │ 0    │ online    │ 0%       │ 31.0mb   │ adminis… │ disabled │
+└────┴──────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2][WARN] Current process list is not synchronized with saved list. App npm differs. Type 'pm2 save' to synchronize.
